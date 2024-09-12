@@ -15,6 +15,7 @@ namespace IFSCCode.Controllers
 
         public IActionResult Index()
         {
+            string ss = "This is test ";
             return View();
         }
 
