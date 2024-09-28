@@ -13,9 +13,12 @@ namespace IFSCCode.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string param)
         {
-            string ss = "This is from branch  ";
+            ViewBag.param = "This is from branch  ";
+            if (!string.IsNullOrWhiteSpace(param)) 
+            ViewBag.param = param;
+
             return View();
         }
 
