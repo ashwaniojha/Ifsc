@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TysTkGRX4tw=",
+  "dgSpecHash": "ELtBBdW2uGs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode.Tests\\IFSCCode.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode.Tests\\IFSCCode.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ojhas\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ojhas\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\IFSCCode.csproj": {}
+    "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\IFSCCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\IFSCCode.csproj": {
+    "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\IFSCCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\IFSCCode.csproj",
+        "projectUniqueName": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\IFSCCode.csproj",
         "projectName": "IFSCCode",
-        "projectPath": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\IFSCCode.csproj",
+        "projectPath": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\IFSCCode.csproj",
         "packagesPath": "C:\\Users\\ojhas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\obj\\",
+        "outputPath": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

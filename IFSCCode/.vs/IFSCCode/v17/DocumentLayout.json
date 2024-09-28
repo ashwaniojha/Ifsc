@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\",
+  "WorkspaceRootPath": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44A6E20C-1699-46AF-B6D5-1A9A30E45616}|..\\IFSCCode.Tests\\IFSCCode.Tests.csproj|c:\\users\\ojhas\\source\\repos\\ifsccode\\ifsccode.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\finddevice\\finddevice branch\\ifsc\\ifsccode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\ifsccode\\ifsccode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\finddevice\\finddevice branch\\ifsc\\ifsccode\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\finddevice\\finddevice branch\\ifsc\\ifsccode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\finddevice\\finddevice branch\\ifsc\\ifsccode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\ifsccode\\ifsccode\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\finddevice\\finddevice branch\\ifsc\\ifsccode\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|c:\\users\\ojhas\\source\\repos\\ifsccode\\ifsccode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{121A3E72-7C3A-49E5-A867-83F28E125A5D}|IFSCCode.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,41 +41,62 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\IFSCCode.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\IFSCCode.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T09:53:51.316Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:54:17.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:37:19.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\Program.cs",
+              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T09:53:07.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -76,16 +105,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\FindDevice\\FindDevice Branch\\Ifsc\\IFSCCode\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-11T09:53:03.008Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\IFSCCode\\IFSCCode.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ojhas\\source\\repos\\IFSCCode\\IFSCCode.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\IFSCCode\\IFSCCode.Tests\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:53:51.316Z"
             }
           ]
         }
